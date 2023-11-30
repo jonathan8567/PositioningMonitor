@@ -36,4 +36,4 @@ It is very simple to use. You only needs to select what you are interested in. Y
 ### FX exposure (%)
 ![image](https://github.com/jonathan8567/PositioningMonitor/assets/139473310/01cf607c-d3c8-438a-9a78-658ffc4ece4a)
 
-### The charts are also interactive, which you are able to zoom in/out, change scales, and show hover window when you pointing to data point.
+#### The charts are also interactive, which you are able to zoom in/out, change scales, and show hover window when you pointing to data point.
